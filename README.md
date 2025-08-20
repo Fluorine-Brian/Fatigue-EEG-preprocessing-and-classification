@@ -18,7 +18,11 @@ demo.py 输入单个样本长度为1秒，采样频率250hz，三通道，形状
 
 Result:
 Final testing result: 
--Precision: 93.86%
--精确率为93.77%
--召回率为93.50%
--F1分数为93.63%
+
+Accuracy: 93.86%
+
+Precision: 93.77%
+
+Recall: 93.50%
+
+F1score: 93.63%
